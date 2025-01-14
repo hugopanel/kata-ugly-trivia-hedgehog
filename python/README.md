@@ -1,5 +1,5 @@
 # Running the app
 
 ```
-$ pytthon trivia.py
+$ python trivia.py
 ```
