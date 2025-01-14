@@ -4,10 +4,12 @@ Goal: learn how to improve legacy code by using acceptance testing
 
 # Instructions
 
-## Step 1 - golden master
+## Step 0 - run the application
 
-You need to set up a golden-master test - feel free to use the
-`reference/` folder
+Choose a programming langugae then follow the Instructions in the README
+to make sure you can run the application.
+
+## Step 1 - golden master
 
 You will have to :
 * Make sure the production code can run in a deterministic manner,
