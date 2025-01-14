@@ -1,8 +1,7 @@
-# Running tests
+# Running the application
 
 ```
 $ npm install
-$ npm run test
+$ npm run app
 ```
 
-Tests are written using [jest](https://jestjs.io/)
